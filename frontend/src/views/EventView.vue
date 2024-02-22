@@ -24,7 +24,7 @@ onMounted(()=>{
     eventIndex.value = routes.params.index
     eventTitle.value = routes.params.title
     eventData.value = EventsData[eventIndex.value]
-    document.title = `${eventTitle.value} - Nrithya`
+    document.title = `${eventTitle.value} - Natayaka`
 })
 
 </script>
@@ -59,16 +59,6 @@ onMounted(()=>{
                                 <span class="font-bold text-[25px] sm:text-[30px] tracking-wide font-merriweather">Description</span>
                                 <span class="pl-4 text-[18px] max-ssm:text-[16px]">
                                     {{ eventData.description }}
-                                </span>
-                            </div>
-                            <div class="guildines flex-col gap-1">
-                                <span class="font-bold text-[25px] sm:text-[30px] tracking-wide font-merriweather">Rounds</span>
-                                <span class="pl-4 text-[20px] max-ssm:text-[16px]">
-                                  <ul class="list-disc pl-4">
-                                        <li v-for="round in eventData.rounds" :key="round">
-                                            {{ round }}
-                                        </li>
-                                    </ul>
                                 </span>
                             </div>
                             <div class="guidelines flex flex-col gap-1">

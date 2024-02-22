@@ -1,13 +1,10 @@
 <script setup>
 const data = [
-  'https://i.postimg.cc/Pd4FL873/IMG-20240109-WA0003.jpg',
-  'https://i.postimg.cc/08XWn1P7/IMG-20240109-WA0005.jpg',
-  'https://i.postimg.cc/ChWvyCZ1/263A1710.jpg',
-  'https://i.postimg.cc/cWjk8WDS/263A1722.jpg',
-  'https://i.postimg.cc/tpGr25Qv/GMC10012023-153112.jpg',
-  'https://i.postimg.cc/YpCDQCKp/IMG-20231108-WA0004.jpg',
-  'https://i.postimg.cc/fZ92cPF0/IMG-20240108-WA0007.jpg',
-
+  'https://i.postimg.cc/RMdd73b5/photo-2024-01-23-23-31-59.jpg',
+  'https://i.postimg.cc/gdTMtZcG/photo-2024-01-23-23-32-15.jpg',
+  'https://i.postimg.cc/B4PmrntH/photo-2024-01-23-23-32-12.jpg',
+  'https://i.postimg.cc/Gb0XdnsN/photo-2024-01-23-23-32-21.jpg',
+  'https://i.postimg.cc/vGW3m2rm/photo-2024-01-23-23-32-27.jpg',
 ]
 
 import { AutoScroll } from '@splidejs/splide-extension-auto-scroll';

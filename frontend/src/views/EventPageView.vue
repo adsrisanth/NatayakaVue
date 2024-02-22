@@ -6,7 +6,7 @@ import { useRouter } from "vue-router";
 const router = useRouter()
 
 onMounted(()=>{
-    document.title = 'Events - Nrithya'
+    document.title = 'Events - Natayaka'
     document.querySelector('.event-list-container').scrollIntoView( {behavior:'instant'} )
 })
 

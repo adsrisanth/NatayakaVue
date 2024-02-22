@@ -20,12 +20,11 @@
           </div>
         </p>
       </div>
-
       <div class="contact-section flex flex-col text-center text-gray-800 relative mr-3">
         <span class="text-black text-[25px] pb-2 font-montserrat tracking-wider font-extrabold">Contact</span>
         <span class="pb-2 pt-2 font-montserrat font-semibold opacity-85 "></span>
         <span class="pb-2 font-montserrat font-semibold opacity-85 "></span>
-        <span class="pb-2 font-montserrat font-semibold opacity-85 tracking-wide text-[16px]">klnrithya@gmail.com</span>
+        <span class="pb-2 font-montserrat font-semibold opacity-85 tracking-wide text-[16px]">klnatayaka@gmail.com</span>
       </div>
       
     </div>

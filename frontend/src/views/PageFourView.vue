@@ -15,10 +15,7 @@ const teams = [
                         name:'Chuda Mani Kakarla',
                         image:'https://i.postimg.cc/sssY56wh/Chuda-Mani-Kakarla-2200031389.jpg',
                     },
-                    {
-                        name:'Yogendra N',
-                        image:'https://i.postimg.cc/VfXtCntg/N-Yogendra-2200031946.jpg',
-                    }  
+                     
                 ]
             },
         ]
@@ -29,6 +26,10 @@ const teams = [
             {
                 role:'',
                 members:[
+                    {
+                        name:'Yogendra N',
+                        image:'https://i.postimg.cc/VfXtCntg/N-Yogendra-2200031946.jpg',
+                    },
                     {
                         name:'Pavan Kumar Maram',
                         image:'https://i.postimg.cc/9FQwKkng/Pavan-Maram-2200032392.jpg',

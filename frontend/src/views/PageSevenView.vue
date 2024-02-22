@@ -15,8 +15,7 @@ import PartnersView from './PartnersView.vue';
             <RouterLink to="/team" class="font-extrabold font-montserrat">The Group</RouterLink>
             <span class="text-[13px] tracking-wide ml-6 -mt-3 text-gray-300 relative font-thin font-merriweather">Click here to view team</span>
           </h2>
-          <p class="mb-3 font-montserrat flex justify-center xxl:text[37px] text-[23px] max-sm:text-[23px] max-ssm:text-[21px] max-vsm:text-[21px] ">The Nrithya Team has consistently raised the bar in the world of dance with their exceptional talent and dedication. Their annual dance festival showcases the rich cultural heritage of dance forms from around the world, captivating audiences with mesmerizing performances and innovative choreography.
-          </p>
+          <p class="mb-3 font-montserrat flex justify-center xxl:text[37px] text-[23px] max-sm:text-[23px] max-ssm:text-[21px] max-vsm:text-[21px] ">Team Natayaka is a vibrant and dynamic club dedicated to the art of dramatics. Comprising a diverse group of passionate individuals, we come together to celebrate the magic of storytelling through various theatrical forms. Our team members are not only talented actors but also skilled behind the scenes, including directors, producers, scriptwriters, and stage managers.</p>
         </div>
         <img class="md:w-[40%] max-md:order-1 max-ssm:w-[85%] w-[70%] saturate-0 bg-blend-color-burn" src="https://i.postimg.cc/VfqHdvWt/Team-Natayaka.jpg" alt="temp"/>
       </div>
